@@ -1,6 +1,6 @@
 # Hackerearth-Sculptures-Cost-Prediction
 
-In this project I have secured a rank of " 45 " with accuracy of 92.16673
+In this project I have secured a rank of " 45 out of 1900 " with accuracy of 92.16673
 
 ### Project Description Provided by HackerEarth
 
