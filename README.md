@@ -1,7 +1,5 @@
 # Hackerearth-Sculptures-Cost-Prediction
 
-In this Hackathon Out of 1900 Particpants I have secured a rank of " 45 " with accuracy of 92.16673
-
 ### Project Description Provided by HackerEarth
 
 It can be difficult to navigate the logistics when it comes to buying art. These include, but are not limited to, the following:
@@ -25,3 +23,7 @@ The dataset folder contains the following files:
 The columns provided in the dataset are as follows:
 
 ![alt text](https://github.com/mvram123/Hackerearth-Sculptures-Cost-Prediction/blob/main/read_me.resources/Dataset.png)
+
+### Achievement: In this Hackathon Out of 1900 Particpants I have secured a rank of " 45 " with accuracy of 92.16673
+
+![alt text](https://github.com/mvram123/Hackerearth-Sculptures-Cost-Prediction/blob/main/read_me.resources/Rank.png)
