@@ -28,4 +28,4 @@ The columns provided in the dataset are as follows:
 ## Achievement: In this Hackathon Out of 4000 Particpants I have secured a rank of " 42 " with accuracy of 94.83
 
 
-![alt text](https://github.com/mvram123/Hackerearth-Sculptures-Cost-Prediction/blob/main/read_me.resources/Rank.png)
+![alt text](https://github.com/mvram123/Hackerearth-Sculptures-Cost-Prediction/blob/main/read_me.resources/Screenshot%202021-03-07%20at%2010.42.04%20AM.png)
